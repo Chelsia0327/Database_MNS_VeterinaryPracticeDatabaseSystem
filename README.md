@@ -1,4 +1,4 @@
-**MONASH NEW SMILE (MNS) - Veterinary Practice Database System**
+**Pets First - Veterinary Practice Database System**
 
 *Introduction*
 

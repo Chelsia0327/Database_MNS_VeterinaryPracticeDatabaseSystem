@@ -1,0 +1,378 @@
+
+Table CLINIC dropped.
+
+
+Table DRUG dropped.
+
+
+Table OWNER dropped.
+
+
+Table PARTICIPANT dropped.
+
+
+Table PET dropped.
+
+
+Table PET_TYPE dropped.
+
+
+Table PRESCRIPTION dropped.
+
+
+Table SERVICE dropped.
+
+
+Table SPECIALISATION dropped.
+
+
+Table TRAINING dropped.
+
+
+Table VET dropped.
+
+
+Table VISIT dropped.
+
+
+Table VISIT_SERVICE dropped.
+
+
+Table CLINIC created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+INDEX CLINIC__IDX created.
+
+
+Table CLINIC altered.
+
+
+Table DRUG created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table DRUG altered.
+
+
+Table OWNER created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table OWNER altered.
+
+
+Table PARTICIPANT created.
+
+
+Table PARTICIPANT altered.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table PARTICIPANT altered.
+
+
+Table PET created.
+
+
+Table PET altered.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table PET altered.
+
+
+Table PET_TYPE created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table PET_TYPE altered.
+
+
+Table PRESCRIPTION created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table PRESCRIPTION altered.
+
+
+Table PRESCRIPTION altered.
+
+
+Table SERVICE created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table SERVICE altered.
+
+
+Table SPECIALISATION created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table SPECIALISATION altered.
+
+
+Table TRAINING created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table TRAINING altered.
+
+
+Table TRAINING altered.
+
+
+Table VET created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table VET altered.
+
+
+Table VISIT created.
+
+
+Table VISIT altered.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table VISIT altered.
+
+
+Table VISIT altered.
+
+
+Table VISIT_SERVICE created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Table VISIT_SERVICE altered.
+
+
+Table TRAINING altered.
+
+
+Table VET altered.
+
+
+Table VISIT altered.
+
+
+Table PRESCRIPTION altered.
+
+
+Table PET altered.
+
+
+Table PET altered.
+
+
+Table VISIT altered.
+
+
+Table VISIT_SERVICE altered.
+
+
+Table PARTICIPANT altered.
+
+
+Table CLINIC altered.
+
+
+Table PARTICIPANT altered.
+
+
+Table VET altered.
+
+
+Table TRAINING altered.
+
+
+Table VISIT altered.
+
+
+Table PRESCRIPTION altered.
+
+
+Table VISIT altered.
+
+
+Table VISIT_SERVICE altered.
+
